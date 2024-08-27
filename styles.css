@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.chart{
+	border : 1px solid black;
+	 border-collapse: collapse;
+}
+ th, td {
+            border: 1px solid black;
+        }
+th{
+	text-align : left;
+	padding-right:40px;
+	background-color:#C0504D;
+}
+.text-center{
+	text-align : right;
+}
+
+.row1{
+	background-color:#DA9694;
+}
+.row2{
+	background-color:#F2DCDB;
+}
+.row3{
+	background-color:#D9D9D9;
+}
